@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hii bro
 girlll
+=======
+Hiii bruh
+>>>>>>> 71ecfbb0f5b8b958006f643f12cfe745766f4e67
